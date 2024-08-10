@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    
+    .navbar{
+        margin-top: 20px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        font-family: 'Times New Roman', Times, serif;
+    
+    
+    }
+     .menu{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        gap: 100px;
+        margin-top: 10px;
+        font-size: large;
+    } 
+    .img{
+        margin-top: 40px;
+        height: 500px;
+        width: 100%;
+        
+    }
+    .content{
+        margin-top: 30px;
+        margin-bottom: 20px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        font-size: 40px;
+         
+        
+    }
+    .content-1{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: 30px;
+        font-size: 17px;
+    }
+    .flags{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+
+    }
+    .flags img{
+        height: 60px;
+        margin: 10px;
+        margin-bottom: 40px;
+    
+    }
+
+    .box {
+        margin: 60px auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+      .imgbox {
+        border: 1px solid gray;
+        background-color: white;
+        height: 22vw;
+        width: 22vw;
+        transition-duration: 1s;
+        border-radius: 5px;
+        margin: 20px 10px;
+
+        
+        display: flex;
+        justify-content: center;
+        align-items: end;
+      }
+      .imgbox:hover {
+        box-shadow: 0 0 12px gray;
+      }
+      .imgbox img {
+        height: 90%;
+        width: 90%;
+        object-fit: contain;
+      }
+      .cardsRow{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+      }
+      .cardContainer {
+        padding-bottom: 60px;
+        background-color: #fff2f3;
+      }
+    
+    .marginNon {
+      margin: 0;
+    }
+    
+      
